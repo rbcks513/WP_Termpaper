@@ -59,3 +59,19 @@
     margin-left: 3%;
     margin-right: 3%;
 }
+.RTN {
+    border-collapse : collapse;
+    border: 3px solid #73AD21;
+}
+.RTBN {
+    border-collapse : collapse;
+    border: 3px solid #73AD21;
+}
+.TBN {
+    border-collapse : collapse;
+    border: 3px solid #73AD21;
+}
+#showBox {
+    /*가운데 출력 읽기 편한 정도의 사이즈*/
+    /*내부 레이아웃 고려하기*/
+}
